@@ -1,4 +1,4 @@
-# ITU ACM 2020-2021 Python Programming Course
+# ITU ACM 2021-2022 Python Programming Course
 
 ## Prerequisities
 
