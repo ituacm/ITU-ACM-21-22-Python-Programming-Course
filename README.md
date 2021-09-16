@@ -25,7 +25,7 @@ The goal of that course is both giving basic informations about Python Programmi
 
 | Name and Surname | Social Media |
 |:--:|:--:|
-| Ayşe Zeynep Subaşı #2 | [*LinkedIn*](https://www.linkedin.com/in/ay%C5%9Fe-zeynep-suba%C5%9F%C4%B1-72133820a) |
+| Ayşe Zeynep Subaşı #3 | [*LinkedIn*](https://www.linkedin.com/in/ay%C5%9Fe-zeynep-suba%C5%9F%C4%B1-72133820a) |
 
 ## Setup
 
