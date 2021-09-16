@@ -4,7 +4,6 @@
 
  - Curiosity about programming.
  - Being excited to learn Python.
- - Having an account on [HackerRank](https://www.hackerrank.com/).
 
 ## Goal
 
