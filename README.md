@@ -13,10 +13,10 @@ The goal of that course is both giving basic informations about Python Programmi
 
 |     #           |Content                          | Instructor                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| [Week 1](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week1) | Introduction, Input-Output Functions, Data Types, Variables, Basic String Operations, Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, String and Number Functions, Loops(for-while), break-continue-pass | Ayşe Zeynep Subaşı| 12.09.2021 18:00|
-| [Week 2](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week2) | Exception Handling (try-except statements), Error Messages, String Formatting, Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse) | Ayşe Zeynep Subaşı| 19.09.2021 18:00|
-| [Week 3](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week3) | Functions, Libraries, Recursion, Scope Concept and Variables | Ayşe Zeynep Subaşı|  26.09.2021 18:00|
-| [Week 4](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week4) |  Iterator/Generator, Object/Class, init/self, File Operations | Ayşe Zeynep Subaşı|  02.10.2021 18:00|
+| [Week 1](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week1) | Introduction, Input-Output Functions, Data Types, Variables, Basic String Operations, Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, String and Number Functions, Loops(for-while), break-continue-pass | Ayşe Zeynep Subaşı| 13.10.2021 18:00|
+| [Week 2](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week2) | Exception Handling (try-except statements), Error Messages, String Formatting, Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse) | Ayşe Zeynep Subaşı| 20.10.2021 18:00|
+| [Week 3](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week3) | Functions, Libraries, Recursion, Scope Concept and Variables | Ayşe Zeynep Subaşı|  03.11.2021 18:00|
+| [Week 4](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week4) |  Iterator/Generator, Object/Class, init/self, File Operations | Ayşe Zeynep Subaşı|  10.11.2021 18:00|
 
 <p align="center"><b>Lessons will be around 2 - 3 hours</b></p>
 
