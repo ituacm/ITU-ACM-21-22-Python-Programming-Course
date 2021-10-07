@@ -26,6 +26,13 @@ The goal of that course is both giving basic informations about Python Programmi
 |:--:|:--:|
 | Ayşe Zeynep Subaşı #3 | [*LinkedIn*](https://www.linkedin.com/in/ay%C5%9Fe-zeynep-suba%C5%9F%C4%B1-72133820a) |
 
+## Assistants @I.T.U
+
+| Name and Surname | Social  |
+|:--:|:--:|
+| Kevser Günaydın #3 | [*LinkedIn*](https://www.linkedin.com/in/kevser-günaydın-2939561b8) |
+
+
 ## Setup
 
 - Python 3.9.0 for [*Windows*](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe), [*Mac OS X*](https://www.python.org/downloads/mac-osx/), [*Linux/UNIX*](https://www.python.org/downloads/source/)
