@@ -15,8 +15,8 @@ The goal of that course is both giving basic informations about Python Programmi
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
 | [Week 1](https://github.com/ituacm/ITU-ACM-21-22-Python-Programming-Course/tree/main/Week1) | Introduction, Input-Output Functions, Data Types, Variables, Basic String Operations, Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, String and Number Functions, Loops(for-while), break-continue-pass | Ayşe Zeynep Subaşı - Kevser Günaydın| 18.10.2021 18:00|
 | [Week 2](https://github.com/ituacm/ITU-ACM-21-22-Python-Programming-Course/tree/main/Week2)| Exception Handling (try-except statements), Error Messages, String Formatting, Data Structures (List, Tuple, Dictionary, Set), Mutability, List Operations(append, pop, del, remove, insert, sort, reverse) | Ayşe Zeynep Subaşı - Kevser Günaydın| 25.10.2021 18:00|
-| Week 3 | Functions, Libraries, Recursion, Scope Concept, Lambda and Variables | Ayşe Zeynep Subaşı - Kevser Günaydın|  01.11.2021 18:00|
-| Week 4 |  Iterator/Generator, Object/Class, init/self, File Operations | Ayşe Zeynep Subaşı - Kevser Günaydın|  08.11.2021 18:00|
+| [Week 3](https://github.com/ituacm/ITU-ACM-21-22-Python-Programming-Course/tree/main/Week3) | Functions, Libraries, Recursion, Scope Concept, Lambda and Variables | Ayşe Zeynep Subaşı - Kevser Günaydın|  01.11.2021 18:00|
+| [Week 4](https://github.com/ituacm/ITU-ACM-21-22-Python-Programming-Course/tree/main/Week4) |  Iterator/Generator, Object/Class, init/self, File Operations | Ayşe Zeynep Subaşı - Kevser Günaydın|  08.11.2021 18:00|
 
 <p align="center"><b>Lessons will be around 2 - 3 hours</b></p>
 
